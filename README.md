@@ -1,5 +1,5 @@
 # lloid
-Lau's Rust Open-Source Vocaloid/Utauloid Clone
+**L**au's Rust Open-Source Voca**loid**/Utau**loid** Clone
 
 ## Workspace
 This project is organized into a workspace with multiple crates:
