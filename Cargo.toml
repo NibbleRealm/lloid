@@ -1,0 +1,2 @@
+[workspace]
+members = ["lloid", "lloid_twang", "lloid_voice", "lloid_splice", "lloidoid"]
