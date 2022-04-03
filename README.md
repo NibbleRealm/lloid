@@ -8,7 +8,7 @@ This project is organized into a workspace with multiple crates:
  - [lloid_twang](lloid_twang/) - Computer Voice Synthesizer
  - [lloid_voice](lloid_voice/) - Lloid Voice Format
  - [lloid_splice](lloid_splice/) - Voice Splicing
- - [lloiddoid](lloiddoid/) - Lloidoid Graphics
+ - [lloidoid](lloidoid/) - Lloidoid Graphics
 
 ## Writing Songs
 The synthesis engine will require you write lyrics phonetically.  Lloid uses a
