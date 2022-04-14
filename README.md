@@ -61,7 +61,7 @@ Lloid uses 4 different categories for sounds:
 
 ### Combination Vowels
  - `au` (`ah` + `u`) - ow (cow) `kau`
- - `ai` (`ah` + `i`) - i (hi) `xai`
+ - `ai` (`ah` + `i`) - i (hi) `hai`
  - `eu` (`eh` + `u`) - ew (ew) `eu`
  - `ei` (`eh` + `i`) - ay (say) `sei`
  - `iu` (`ih` + `u`) - ew (ew) `iu`
