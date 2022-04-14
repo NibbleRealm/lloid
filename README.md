@@ -68,6 +68,6 @@ Lloid uses 4 different categories for sounds:
  - `oi` (`oh` + `i`) - oy (boy) `boi`
  - `ui` (`uh` + `i`) - oy (doy) `dui`
  - `auu` (`a` + `u`) - ou (shout) `cauut`
- - `aii` (`a` + `i`) - ei (height) `xaiit`
+ - `aii` (`a` + `i`) - ei (height) `haiit`
  - `iuu` (`i` + `u`) - you (you) `iuu`
  - `uii` (`u` + `i`) - we (we) `uii`
