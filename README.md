@@ -47,9 +47,9 @@ Lloid uses 4 different categories for sounds:
 ### Unpitched
 21. c - sh (shell) `cel`
 22. f - f (fog) `fog`
-23. s - s (sing) `siq`
-24. th - th (thick) `thihk`
-25. x - h (have) `xyhv`
+23. h - h (have) `hyhv`
+24. s - s (sing) `siq`
+25. x - th (thick) `xihk`
 
 ### Plosive
 26. b - b (base) `beis`
@@ -57,7 +57,7 @@ Lloid uses 4 different categories for sounds:
 28. g - g (gas) `gyhs`
 29. k - k (kelp) `kelp`
 30. p - p (pretty) `prihti`
-31. t - t (telepathy) `telepathi`
+31. t - t (telepathy) `telepaxi`
 
 ### Combination Vowels
  - `au` (`ah` + `u`) - ow (cow) `kau`
